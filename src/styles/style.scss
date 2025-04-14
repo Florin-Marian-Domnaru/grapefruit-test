@@ -1,0 +1,30 @@
+@use "variables" as *;
+@forward "variables";
+
+.text-primary {
+  color: $color-secondary;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -2%;
+}
+
+.text-secondary {
+  color: $secondary-gray-600;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -2%;
+}
+
+.text-card-primary {
+  font-size: 24px;
+  color: $color-secondary;
+  font-weight: 700;
+}
+
+.text-card-secondary {
+  font-size: 14px;
+  color: $secondary-gray-600;
+  font-weight: 500;
+}

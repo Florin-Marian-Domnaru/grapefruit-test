@@ -1,0 +1,14 @@
+[
+  { "month": "January", "amount": 733 },
+  { "month": "February", "amount": 521 },
+  { "month": "March", "amount": 847 },
+  { "month": "April", "amount": 625 },
+  { "month": "May", "amount": 689 },
+  { "month": "June", "amount": 437 },
+  { "month": "July", "amount": 902 },
+  { "month": "August", "amount": 498 },
+  { "month": "September", "amount": 776 },
+  { "month": "October", "amount": 428 },
+  { "month": "November", "amount": 655 },
+  { "month": "December", "amount": 940 }
+]

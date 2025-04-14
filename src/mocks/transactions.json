@@ -1,0 +1,44 @@
+[
+  {
+    "id": "txn_001",
+    "name": "Public Transport",
+    "amount": 250.75,
+    "date": "2025-04-10"
+  },
+  {
+    "id": "txn_002",
+    "name": "PayPal Invoice",
+    "amount": 120.0,
+    "date": "2025-04-11"
+  },
+  {
+    "id": "txn_003",
+    "name": "Grocery",
+    "amount": -75.5,
+    "date": "2025-04-11"
+  },
+  {
+    "id": "txn_004",
+    "name": "Apple",
+    "amount": 950.0,
+    "date": "2025-04-12"
+  },
+  {
+    "id": "txn_005",
+    "name": "Refund to John Doe",
+    "amount": -45.0,
+    "date": "2025-04-13"
+  },
+  {
+    "id": "txn_006",
+    "name": "Subscription: Pro Plan",
+    "amount": 29.99,
+    "date": "2025-04-13"
+  },
+  {
+    "id": "txn_007",
+    "name": "Stripe Payment",
+    "amount": 410.5,
+    "date": "2025-04-14"
+  }
+]

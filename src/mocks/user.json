@@ -1,0 +1,13 @@
+{
+  "id": "user_1",
+  "firstName": "Charles",
+  "lastName": "Robbie",
+  "username": "Charles",
+  "email": "charles.robbie@example.com",
+  "phone": "+40778899",
+  "projects": 28,
+  "followers": 643,
+  "following": 76,
+  "profilePicture": "avatar.png",
+  "location": "New York, USA"
+}

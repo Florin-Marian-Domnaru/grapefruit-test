@@ -1,0 +1,86 @@
+[
+  {
+    "id": "task_1",
+    "task": "Meeting w/Team",
+    "hours": "1 PM - 3 PM",
+    "date": "2025-04-13"
+  },
+  {
+    "id": "task_2",
+    "task": "Training",
+    "hours": "10 AM - 12 PM",
+    "date": "2025-04-13"
+  },
+  {
+    "id": "task_3",
+    "task": "Reading time",
+    "hours": "2 PM - 4 PM",
+    "date": "2025-04-13"
+  },
+  {
+    "id": "task_4",
+    "task": "Testing",
+    "hours": "9 AM - 11 AM",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "task_1",
+    "task": "Meeting w/Team",
+    "hours": "1 PM - 3 PM",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "task_2",
+    "task": "Training",
+    "hours": "10 AM - 12 PM",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "task_3",
+    "task": "Reading time",
+    "hours": "2 PM - 4 PM",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "task_4",
+    "task": "Testing",
+    "hours": "9 AM - 11 AM",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "task_1",
+    "task": "Meeting w/Team",
+    "hours": "1 PM - 3 PM",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "task_2",
+    "task": "Training",
+    "hours": "10 AM - 12 PM",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "task_3",
+    "task": "Reading time",
+    "hours": "2 PM - 4 PM",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "task_4",
+    "task": "Testing",
+    "hours": "9 AM - 11 AM",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "task_5",
+    "task": "Check-in",
+    "hours": "3 PM - 5 PM",
+    "date": "2025-04-16"
+  },
+  {
+    "id": "task_6",
+    "task": "Client Presentation",
+    "hours": "11 AM - 1 PM",
+    "date": "2025-04-16"
+  }
+]
